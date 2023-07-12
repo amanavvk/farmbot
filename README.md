@@ -1,7 +1,6 @@
 ## Modular autonomous mobile robot for precision spray of Pesticides
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Neonlabs-ai/farmbot?color=FFE333)
-![GitHub Repo forks](https://img.shields.io/github/forks/Neonlabs-ai/farmbot?color=FFE333)
+
 
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![ROS](https://img.shields.io/badge/Tools-ROS-informational?style=flat&logo=ROS&logoColor=white&color=2bbc8a)
@@ -125,4 +124,9 @@ Total : 45,000
 **Overall total : 117,000** -->
 
 ### References
-- Meshram, A. T., Vanalkar, A. V., Kalambe, K. B., & Badar, A. M. (2022). Pesticide Spraying Robot for Precision Agriculture: A Categorical Literature Review and Future Trends. Journal of Field Robotics, 39, 153–171. [LINK](https://doi.org/10.1002/rob.22043) 
+- Meshram, A. T., Vanalkar, A. V., Kalambe, K. B., & Badar, A. M. (2022). Pesticide Spraying Robot for Precision Agriculture: A Categorical Literature Review and Future Trends. Journal of Field Robotics, 39, 153–171. [LINK](https://doi.org/10.1002/rob.22043)
+
+### Contributers
+Aman Vyas
+Bhavik Kasundara
+Avdhesh Kumar
