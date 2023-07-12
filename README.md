@@ -127,6 +127,6 @@ Total : 45,000
 - Meshram, A. T., Vanalkar, A. V., Kalambe, K. B., & Badar, A. M. (2022). Pesticide Spraying Robot for Precision Agriculture: A Categorical Literature Review and Future Trends. Journal of Field Robotics, 39, 153–171. [LINK](https://doi.org/10.1002/rob.22043)
 
 ### Contributers
-Aman Vyas
-Bhavik Kasundara
-Avdhesh Kumar
+>Aman Vyas
+>Bhavik Kasundara
+>Avdhesh Kumar
