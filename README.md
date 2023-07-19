@@ -8,13 +8,13 @@
 
 ## TODO
 
-- [ ] CAD Design of robot (Must be optimized for manufacturing)
+- [x] CAD Design of robot (Must be optimized for manufacturing)
 - [x] Program localisation method using GPS, IMU (and Vision if required)
 - [x] Research about architecture of CNN to be used..
 - [x] Train for weed detection purpose
-- [ ] define and solve lane tracking problem as input image and output Lane msg (to be modified)
-- [ ] deploy CNN in Jetson / Pi for weed detection purpose using TensorRT
-- [ ] Nozzle position planning algorithm
+- [x] define and solve lane tracking problem as input image and output Lane msg (to be modified)
+- [x] deploy CNN in Jetson / Pi for weed detection purpose using TensorRT
+- [x] Nozzle position planning algorithm
 
 ### Description
 
